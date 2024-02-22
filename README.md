@@ -1,6 +1,6 @@
 # Introduction to Quantum Circuits with Qiskit
 
-Welcome to the Quantum Computing Notebook! This notebook serves as an introduction to quantum circuit concepts using the Qiskit library. The primary goal of the hands-on sessions is to familiarize yourself with quantum circuits and learn how to create entangled states, such as the Bell States, using Qiskit. Additionally, in the second hour, we will delve into implementing a protocol for Quantum Teleportation.
+Welcome to the Quantum Computing Notebook! This notebook serves as an introduction to quantum circuit concepts using the Qiskit library. The primary goal of the hands-on sessions is to familiarize yourself with quantum circuits and learn how to create entangled states, such as the Bell States, using Qiskit. Additionally, in the second hour, we will delve into implementing a protocol (or part of it) for Quantum Teleportation.
 
 ## Installation
 
