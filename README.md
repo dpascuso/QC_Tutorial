@@ -8,7 +8,7 @@ To run the notebook, you have two options:
 
 1. **Local Installation:** Follow the instructions in the provided PDF guide to install Jupyter Notebook and Qiskit on your local machine. You can then open the notebook file using Jupyter Notebook and run the cells to interact with the quantum circuits.
 
-2. **IBM Quantum Lab:** Alternatively, use the provided [IBM Quantum Lab](https://quantum-computing.ibm.com/lab) environment. This option allows you to run the notebook in a standard browser without any local installations. All you need is a Google Account to sign in and start experimenting with quantum circuits.
+2. **IBM Quantum Lab:** (***Prefered***)Alternatively, use the provided [IBM Quantum Lab](https://quantum-computing.ibm.com/lab) environment. This option allows you to run the notebook in a standard browser without any local installations. All you need is a Google Account to sign in and start experimenting with quantum circuits.
 
 ## Hands-on Sessions
 
