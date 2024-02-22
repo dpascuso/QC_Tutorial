@@ -19,7 +19,7 @@ In the second hour, we will delve into implementing a protocol for Quantum Telep
 ## Contents
 
 - **Notebook File:** [notebook.ipynb]()
-- **PDF Installation Guide:** [installation-guide.pdf]()
+- **PDF Installation Guide:** [FirstStepsWithPythonAndQiskit.pdf]()
 
 ## License
 
