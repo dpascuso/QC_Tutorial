@@ -1,4 +1,4 @@
-# TIQIT_tutorial
+# QC_Tutorial
 Python notebook with simple examples of quantum information processing with the qiskit package
 
 # Introduction to Quantum Circuits with Qiskit
