@@ -15,7 +15,7 @@ conda create -n quantum_computing python=3
 conda activate quantum_computing
 pip install numpy scipy matplotlib qiskit
 pip install jupyter
-pip install qiskit[visualization]
+pip install 'qiskit[visualization]'
 pip install qiskit_aer
 ```
 To deactivate the python environment type
