@@ -19,11 +19,11 @@ To run the notebook, you have two main options:
    pip install jupyter
    pip install 'qiskit[visualization]'
    pip install qiskit_aer
-```
+   ```
 To deactivate the python environment type
-```bash
-conda deactivate
-```
+   ```bash
+   conda deactivate
+   ```
 The activate and deactivate commands allow you to move from the default (base) environment and the ones you create.
 
 2. **Cloud Notebook Environments:**  Note: IBM Quantum Lab has been deprecated. You can still run this notebook without any local installs by using any cloud-based Jupyter environment—Google Colab for example. Configuration for these non-local platforms (e.g., mounting Google Drive, installing Qiskit in a Colab cell, etc.) is not covered here.
